@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Flutter Music Player**
+- 🔭 I’m currently working on **Horoscope App**
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about flutter I'll try and help
 - 🥅 2021 Goals: Contribute more to Open Source projects
