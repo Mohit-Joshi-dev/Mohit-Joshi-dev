@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at **Vervali Systems**
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working from **Mumbai**
+- 🌱 I’m currently learning Swift
 - 💬 Ask me about flutter I'll try and help
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 📫 How to reach me:   **mohitjoshi199923@gmail.com**
 - ⚡ Fun fact: Currently learning everything
 -->
