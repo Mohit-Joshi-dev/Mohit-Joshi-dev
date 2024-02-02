@@ -4,8 +4,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Mohit-Joshi-dev?style=for-the-badge)
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working from **Mumbai**
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about flutter I'll try and help
