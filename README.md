@@ -9,7 +9,7 @@
 - 💬 Ask me about flutter I'll try and help
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - 📫 How to reach me:   **mohitjoshi199923@gmail.com**
-- ⚡ Fun fact: Currently learning everything
+- ⚡ Fun fact: Currently learning everything!!!
 -->
 
 ### Contact me:
